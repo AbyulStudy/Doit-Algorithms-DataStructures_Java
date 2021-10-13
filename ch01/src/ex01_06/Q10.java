@@ -14,11 +14,16 @@ public class Q10 {
 		while(true) {
 			System.out.print("b의 값 :");
 			b = sc.nextInt();
-			if(b > a) break;
+			if(b > a) {break;}
 			System.out.println("a보다 큰 값을 입력하세요!");
 		}
 		
+		do {
+			System.out.print("b의 값 :");
+			b = sc.nextInt();
+			if(a>b) {System.out.println("a보다 큰값을 입력하세요!");}
+		}while(a>b);
+		
 		System.out.println("b - a는 " + (b-a) + "입니다.");
 	}
-
 }
