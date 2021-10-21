@@ -1,4 +1,4 @@
-package ex02_01;
+package ex02_05;
 // MaxOfArrayRand 를 수정하여 키뿐만 아니라 사람 수도 난수로 생성하도록 프로그램을 작성하세요.
 
 import java.util.Random;
