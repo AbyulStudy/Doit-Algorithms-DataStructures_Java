@@ -1,4 +1,4 @@
-package ex02_01;
+package ex02_06;
 
 import java.util.Arrays;
 
