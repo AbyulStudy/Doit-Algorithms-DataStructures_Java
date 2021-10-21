@@ -1,4 +1,4 @@
-package ex02_01;
+package ex02_06;
 // 배열 a 의 모든 요소의 합계를 구하여 반환하는 메서드를 작성하세요.
 
 import java.util.Arrays;
