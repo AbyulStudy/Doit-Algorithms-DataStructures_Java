@@ -1,4 +1,4 @@
-package ex02_01;
+package ex02_06;
 //배열 요소의 값을 읽어 들여 역순으로 정렬합니다.
 
 import java.util.Arrays;
