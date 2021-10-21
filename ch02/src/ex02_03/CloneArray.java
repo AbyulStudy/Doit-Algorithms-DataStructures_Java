@@ -1,4 +1,4 @@
-package ex02_01;
+package ex02_03;
 
 public class CloneArray {
 	public static void main(String[] args) {
