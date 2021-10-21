@@ -1,4 +1,4 @@
-package ex02_01;
+package ex02_06;
 //배열 요소를 역순으로 정렬하는 과정을 하나하나 나타내는 프로그램을 작성하세요.
 
 import java.util.Arrays;
