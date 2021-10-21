@@ -1,4 +1,4 @@
-package ex02_01;
+package ex02_07;
 // 배열 b의 모든 요소를 배열 a에 역순으로 복사하는 메서드 copy를 작성하세요.
 
 import java.util.Arrays;
