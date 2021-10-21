@@ -1,4 +1,4 @@
-package ex02_01;
+package ex02_05;
 
 import java.util.Random;
 import java.util.Scanner;
